@@ -18,7 +18,6 @@ public class Constants {
     // Set the Encoder ID in the Phoenix Tuner software
     // Mess with the offset values so that the robot wheels end up straight, they are degree values
     // The stock offset value is 0, if we ever want to return to "default" settings
-    //hi
     public static final int FRONT_LEFT_MODULE_DRIVE_MOTOR = 1;
     public static final int FRONT_LEFT_MODULE_STEER_MOTOR = 2;
     public static final int FRONT_LEFT_MODULE_STEER_ENCODER = 10;
